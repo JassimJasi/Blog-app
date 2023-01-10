@@ -2,30 +2,30 @@
 
 # Equaim Blog
 
-Clone the project
+Clone the project:
 git clone https://github.com/cv-arun/blog-app.git
 
-set .env file in root directory
-set mongoURL= your local host link
+set .env file in root directory:
+set mongoURL= your local host link,
 set PORT =set a port
 
-Go to the project directory backend
+Go to the project directory backend:
 cd backend
 
-Install dependencies
+Install dependencies:
 npm install / npm i
 
-Start the server
+Start the server:
 npm start
 
-Go to the project directory frontend
+Go to the project directory frontend:
 cd frontend
 
-Install dependencies
+Install dependencies:
 npm install / npm i
 
-Start the server
+Start the server:
 npm start
 
-about Equaim Blog
+about Equaim Blog:
 You may add your blog and browse all blogs with this blog app.
