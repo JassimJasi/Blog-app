@@ -3,7 +3,7 @@
 # Equaim Blog
 
 Clone the project:
-git clone https://github.com/cv-arun/blog-app.git
+git clone https://github.com/JassimJasi/Blog-app#equaim-blog
 
 set .env file in root directory:
 set mongoURL= your local host link,
